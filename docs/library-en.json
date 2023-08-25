@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Learning to use Text2Lesson",
+    "location": "https://henspace.com/text2lesson-library/",
+    "chapters": [
+      {
+        "title": "Getting started",
+        "lessons": [
+          {
+            "title": "What is the point of Text2Lesson?",
+            "file": "01-what-is-the-point.txt"
+          },
+          {
+            "title": "Writing your first lesson",
+            "file": "02-my-first-lesson.txt"
+          }
+        ]
+      }
+    ]
+  }
+]
