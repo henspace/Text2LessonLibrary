@@ -7,16 +7,20 @@ so what is the point of something else?
 Good question.
 
 _Text2Lesson_ has been designed so that anyone using it can do so without needing
-to create an account or provide any personal information. If you are creating
+to create an account or provide any personal information. If you're creating
 content for your students, you can do so safely knowing that neither they nor you
 will need yet another online account.
+
+And it's fast. Once you get the hang of it, typing plain old text is fast.
 
 The guide you are currently watching has been created using _Text2Lesson_. Let's
 use it to ask some questions.
 
-If you find the speed at which these slides automatically advance too slow, you can
-increase the reading speed by clicking on those three bars at the top left, and
-selecting settings.
+By the way, if you find the speed at which these slides automatically advance too
+slow, you can increase the reading speed by clicking on those three bars at the
+top left, and selecting settings.
+
+If you're on a mobile, just swipe them out of the way.
 
 ___
 ## ? Which of these allows you to create a quiz without an account?

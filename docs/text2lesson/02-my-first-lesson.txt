@@ -1,19 +1,40 @@
-# (i) This will be a bit of a longer lesson. We're going to look at how we create our
-own lesson combined with a quiz.
+(i) This will be a bit of a longer lesson. We're going to look at how we create our
+own lesson quiz.
 
 First, a bit of terminology so we're all on the same page.
 
-Lessons are made up of multiple problems.
+When we watch a lesson and answer any questions, we call that _playing_ a lesson.
 
-Problems come in different flavours.
+Lessons are made up of multiple problems, and problems come in five different flavours.
 
-* Pick the right answer.
-* Pick the right answers. More than one is correct.
-* Fill in the blanks.
-* Put the words in the correct order.
-* Watch the slideshow.
+* Multiple choice questions with one correct answer.
+* Multiple choice questions with more than one correct answer.
+* Fill in the blank questions where you have to fill in the missing words.
+* Put the words in the correct order questions.
+* Slideshow presentations like this.
 
 In this lesson we will just look at creating a simple multiple choice question
 with one correct answer.
 
-This lesson is under construction.
+The lessons you create are typically stored on your device in the **local library**.
+
+
+The local library starts with four empty slots. To create a lesson with just one question, 
+you would just need to type the following text:
+
+    ? What is the capital of France?
+    = Paris
+    x London
+    x Tokyo
+    x Washington
+__________________________________
+(i) Let's see what that would look like.
+__________________________________
+? What is the capital of France?
+= Paris
+x London
+x Tokyo
+x Washington
+__________________________________
+The [writing lessons](https://henspace.com/text2lesson-docs/writing-lessons.html)
+topic provides details on how to edit one of the slots. Open it now, have a look and then have a go at creating a simple question like that one.
