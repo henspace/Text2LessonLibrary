@@ -15,6 +15,23 @@
             "file": "02-my-first-lesson.txt"
           }
         ]
+      },
+      {
+        "title": "Example quizzes",
+        "lessons": [
+          {
+            "title": "Capital cities of Europe",
+            "file": "capital_cities_of_Europe.txt"
+          },
+          {
+            "title": "Famous authors",
+            "file": "famous_authors.txt"
+          },
+          {
+            "title": "Animals",
+            "file": "animals.txt"
+          }
+        ]
       }
     ]
   }

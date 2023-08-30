@@ -1,0 +1,29 @@
+? What is the capital of the Netherlands?
+= Amsterdam
+x Rotterdam
+x Utrecht
+x The Hague
+
+? What is the capital of Serbia?
+= Belgrade
+x Novi Sad
+x Niš
+x Kragujevac
+
+? What is the capital of Spain?
+= Madrid
+x Barcelona
+x Seville
+x Valencia
+
+? What is the capital of Belarus?
+= Minsk
+x Barysaw
+x Salihorsk
+x Maladzyechna
+
+? What is the capital of Poland?
+= Warsaw
+x Kraków
+x Łódź
+x Wrocław

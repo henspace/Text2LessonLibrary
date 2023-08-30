@@ -1,0 +1,31 @@
+? Which of these books were written by Charles Dickens?
+= David Copperfield
+= The Pickwick Papers
+= Vanity Fair
+= The history of Pendennis
+
+? Which of these plays are by William Shakespeare?
+= Much ado about nothing
+= The two gentlemen of Verona
+= Measure for Measure
+x The Cantebury tales
+
+? Which of these books are by Chaucer?
+= The Cantebury tales
+= Troilus and Criseyde
+x The divine comedy
+x Purgatorio
+
+? Which of these poems were written by Yeats?
+= Leda and the swan
+= The second coming
+= Sailing to Byzantium
+x Ode on melancholy
+x To autumn
+
+
+
+
+
+
+
