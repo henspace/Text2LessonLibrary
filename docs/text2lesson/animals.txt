@@ -6,7 +6,7 @@ x Samango monkey
 x Black and white colobus monkey
 
 (i) Let's move on to birds.
-? The Artic Tern has the longest migration of any animal, but how far is it's annual round trip?
+? The Artic Tern has the longest migration of any animal, but how far is its annual round trip?
 = 90,000 km
 x 50,000 km
 x 20,000 km
