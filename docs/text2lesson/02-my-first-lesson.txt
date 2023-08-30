@@ -36,5 +36,5 @@ x London
 x Tokyo
 x Washington
 __________________________________
-The [writing lessons](https://henspace.com/text2lesson-docs/writing-lessons.html)
+The [writing lessons](https://henspace.github.io/text2lesson-docs/writing-lessons.html)
 topic provides details on how to edit one of the slots. Open it now, have a look and then have a go at creating a simple question like that one.
