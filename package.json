@@ -1,0 +1,19 @@
+{
+  "name": "text2lesson-library",
+  "version": "1.0.0",
+  "description": "Prebuilt library for use by [Text2Lesson](https://github.com/henspace/text2lesson).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "check": "node ./check.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henspace/text2lesson-library/issues"
+  },
+  "homepage": "https://github.com/henspace/text2lesson-library#readme"
+}

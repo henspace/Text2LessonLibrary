@@ -2,16 +2,16 @@
 = David Copperfield
 = The Pickwick Papers
 = Vanity Fair
-= The history of Pendennis
+x The history of Pendennis
 
 ? Which of these plays are by William Shakespeare?
 = Much ado about nothing
 = The two gentlemen of Verona
 = Measure for Measure
-x The Cantebury tales
+x The Canterbury tales
 
 ? Which of these books are by Chaucer?
-= The Cantebury tales
+= The Canterbury tales
 = Troilus and Criseyde
 x The divine comedy
 x Purgatorio
@@ -23,7 +23,9 @@ x Purgatorio
 x Ode on melancholy
 x To autumn
 
-
+(i) This quick lesson is part of the _Text2Lesson_ learning trail.
+Take a look at the [famous authors](https://henspace.github.io/text2lesson-docs/learning-trail/examples/famous_authors.txt)
+file to see how it was written.
 
 
 

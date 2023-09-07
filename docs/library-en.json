@@ -17,7 +17,7 @@
         ]
       },
       {
-        "title": "Example quizzes",
+        "title": "Example quizzes from the learning trail",
         "lessons": [
           {
             "title": "Capital cities of Europe",
@@ -30,6 +30,15 @@
           {
             "title": "Animals",
             "file": "animals.txt"
+          }
+        ]
+      },
+      {
+        "title": "A miscellany of quizzes",
+        "lessons": [
+          {
+            "title": "Kings and Queens of England",
+            "file": "kings_and_queens.txt"
           }
         ]
       }
