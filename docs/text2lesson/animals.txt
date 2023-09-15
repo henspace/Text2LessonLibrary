@@ -1,19 +1,19 @@
 (i) This is a short quiz about animals. Have a go and see how much you know.
-? Which of these animals is only found in South America?
+(?) Which of these animals is only found in South America?
 = White headed capuchin monkey
 x Vervet monkey
 x Samango monkey
 x Black and white colobus monkey
 
 (i) Let's move on to birds.
-? The Arctic Tern has the longest migration of any animal, but how far is its annual round trip?
+(?) The Arctic Tern has the longest migration of any animal, but how far is its annual round trip?
 = 90,000 km
 x 50,000 km
 x 20,000 km
 x 10,000 km
 
 (i) Okay! We've looked at some monkeys and birds. Let's move on to some bugs.
-? The Giant Wētā is the world’s heaviest insect in terms of weight, but how 
+(?) The Giant Wētā is the world’s heaviest insect in terms of weight, but how 
 heavy can it get?
 = 70 g (2.5 oz)
 x 50 g (1.8 oz)
@@ -21,7 +21,7 @@ x 20 g (0.7 oz)
 x 10 g (0.35 oz)
 
 (i) The final question. 
-? The Greenland shark is one of the longest living animals on Earth. Scientists
+(?) The Greenland shark is one of the longest living animals on Earth. Scientists
 discovered one which was very old but still living; but how old was it?
 = 400 years old
 x 300 years old
