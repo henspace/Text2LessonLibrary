@@ -1,3 +1,7 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
 (?) What is the capital of the Netherlands?
 = Amsterdam
 x Rotterdam

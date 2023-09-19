@@ -1,3 +1,7 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
 (i) emoji:🖐️>bigger Welcome
 
 _Text2Lesson_ has been designed to create lessons and quizzes quickly and 

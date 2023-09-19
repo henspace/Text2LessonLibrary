@@ -1,3 +1,7 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
 (i) This is a short quiz about animals. Have a go and see how much you know.
 (?) Which of these animals is only found in South America?
 = White headed capuchin monkey

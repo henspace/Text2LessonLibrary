@@ -1,0 +1,385 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
+(i) In this lesson we are going to look at some famous equations and mathematical expressions.
+
+This lesson is really to show how _Text2Lesson_ can display complex expressions using MathML and AsciiMath. These are very hard.
+
+Let's go.
+
+_____
+
+
+(?) This equation is the solution to a particular expression.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mi>x</mi>
+   <mo stretchy="false">=</mo>
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo stretchy="false">−</mo>
+      <mi>b</mi>
+     </mrow>
+     <mo stretchy="false">±</mo>
+     <msqrt>
+      <mrow>
+       <mrow>
+        <msup>
+         <mi>b</mi>
+         <mn>2</mn>
+        </msup>
+        <mo stretchy="false">−</mo>
+        <mn>4</mn>
+       </mrow>
+       <mi mathvariant="italic">ac</mi>
+      </mrow>
+     </msqrt>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+     <mi>a</mi>
+    </mrow>
+   </mfrac>
+  </mrow>
+  <annotation encoding="StarMath 5.0">x = frac { -b +- sqrt{ b^{2} -4ac }  } {2a}</annotation>
+ </semantics>
+</math>
+Which one does it solve?
+
+
+= <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msup>
+     <mi mathvariant="italic">ax</mi>
+     <mn>2</mn>
+    </msup>
+    <mo stretchy="false">+</mo>
+    <mi mathvariant="italic">bx</mi>
+    <mo stretchy="false">+</mo>
+    <mi>c</mi>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <mn>0</mn>
+  </mrow>
+  <annotation encoding="StarMath 5.0">ax^2 +bx + c = 0</annotation>
+ </semantics>
+</math>
+
+x <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msup>
+     <mi mathvariant="italic">ax</mi>
+     <mn>3</mn>
+    </msup>
+    <mo stretchy="false">+</mo>
+    <msup>
+     <mi mathvariant="italic">bx</mi>
+     <mn>2</mn>
+    </msup>
+    <mo stretchy="false">+</mo>
+    <mi mathvariant="italic">cx</mi>
+    <mo stretchy="false">+</mo>
+    <mi>d</mi>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <mn>0</mn>
+  </mrow>
+  <annotation encoding="StarMath 5.0">ax^3 +bx^2 + cx + d = 0</annotation>
+ </semantics>
+</math>
+
+x <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mfrac>
+     <mi>a</mi>
+     <msup>
+      <mi>x</mi>
+      <mn>2</mn>
+     </msup>
+    </mfrac>
+    <mo stretchy="false">+</mo>
+    <mfrac>
+     <mi>b</mi>
+     <mi>x</mi>
+    </mfrac>
+    <mo stretchy="false">+</mo>
+    <mi>c</mi>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <mn>0</mn>
+  </mrow>
+  <annotation encoding="StarMath 5.0"> {a} over {x^2}  +  {b} over {x} +  c   = 0 </annotation>
+ </semantics>
+</math>
+
+x <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mi>a</mi>
+    <mo stretchy="false">⋅</mo>
+    <mi>ln</mi>
+   </mrow>
+   <mrow>
+    <mrow>
+     <mrow>
+      <mo fence="true" form="prefix" stretchy="false">(</mo>
+      <mrow>
+       <mfrac>
+        <mi>b</mi>
+        <mi>x</mi>
+       </mfrac>
+      </mrow>
+      <mo fence="true" form="postfix" stretchy="false">)</mo>
+     </mrow>
+     <mo stretchy="false">+</mo>
+     <mi>c</mi>
+    </mrow>
+    <mo stretchy="false">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">a cdot ln( {b} over {x} ) + c   = 0 </annotation>
+ </semantics>
+</math>
+
+(?) You've probably seen this equation before; it's one of the most famous in the world.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mi>E</mi>
+   <mo stretchy="false">=</mo>
+   <msup>
+    <mi mathvariant="italic">mc</mi>
+    <mn>2</mn>
+   </msup>
+  </mrow>
+  <annotation encoding="StarMath 5.0">E = mc^{2}  </annotation>
+ </semantics>
+</math>
+
+But what does **c** stand for?
+= the speed of light
+x curvature of space
+x brightness of the Sun measured in candelas
+x the gravitational constant
+
+(?) Take a look at this equation:
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msup>
+     <mi>a</mi>
+     <mn>2</mn>
+    </msup>
+    <mo stretchy="false">+</mo>
+    <msup>
+     <mi>b</mi>
+     <mn>2</mn>
+    </msup>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <msup>
+    <mi>c</mi>
+    <mn>2</mn>
+   </msup>
+  </mrow>
+  <annotation encoding="StarMath 5.0">a^2 + b^2 = c^2  </annotation>
+ </semantics>
+</math>
+Which ancient Greek mathematician was behind this?
+= Pythagoras
+x Euclid
+x Eratosthenes
+x Archimedes
+
+(?) Take a look at this famous equation:
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mi>F</mi>
+    <mo stretchy="false">=</mo>
+    <mi>G</mi>
+   </mrow>
+   <mfrac>
+    <mrow>
+     <msub>
+      <mi>m</mi>
+      <mn>1</mn>
+     </msub>
+     <msub>
+      <mi>m</mi>
+      <mn>2</mn>
+     </msub>
+    </mrow>
+    <msup>
+     <mi>r</mi>
+     <mn>2</mn>
+    </msup>
+   </mfrac>
+  </mrow>
+  <annotation encoding="StarMath 5.0">F = G { m_{1} m_{2} } over {r^2} </annotation>
+ </semantics>
+</math>
+Do you know what it's about?
+
+= gravitational force
+x frictional force
+x conversion of metres to furlongs
+x capacitance in farads.
+
+& This gives the force between two bodies of mass m1 and m2 separated by a distance r between their centres. G is the gravitational constant. 
+
+(?) 
+<<a title="Sbyrnes321, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ExpIPi.gif"><img width="256" alt="ExpIPi" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/ExpIPi.gif"></a>
+It looks quite simple, but who came up with this beauty. It is very famous.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msup>
+     <mi>e</mi>
+     <mrow>
+      <mi>i</mi>
+      <mi>π</mi>
+     </mrow>
+    </msup>
+    <mo stretchy="false">+</mo>
+    <mn>1</mn>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <mn>0</mn>
+  </mrow>
+  <annotation encoding="StarMath 5.0">e^{ i %pi  } + 1 = 0</annotation>
+ </semantics>
+</math>
+= Euler
+x Pythagoras
+x Fibonacci
+x Turing
+
+(?) Here is an example of what we call calculus. 
+amaths: int_a^b f'(x)dx = f(b) - f(a)
+
+Which of these people would you associate with the development of modern calculus in the 17th century?
+= Isaac Newton
+= Gottfried Wilhelm Leibniz
+x Max Planck
+x Carl Friedrich Gauss
+
+(?) A lovely simple looking equation now. It's part of a set of equations. What are those equations called? 
+amath: grad xx E = - (delB)/(delt)
+<<a title="Lookang, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Electromagneticwave3D.gif"><img width="256" alt="Electromagneticwave3D" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Electromagneticwave3D.gif"></a>
+= Maxwell's equations
+x Newton's equations
+x Einstein's equations
+x Planck's equations
+
+(?) A monster to finish with. This expression is known as someone's dream (more of a nightmare if you ask me). Whose dream is it?
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <munderover>
+     <mo stretchy="false">∫</mo>
+     <mn>0</mn>
+     <mn>1</mn>
+    </munderover>
+    <msup>
+     <mi>x</mi>
+     <mi>x</mi>
+    </msup>
+   </mrow>
+   <mrow>
+    <mi mathvariant="italic">dx</mi>
+    <mo stretchy="false">=</mo>
+    <mrow>
+     <munderover>
+      <mo stretchy="false">∑</mo>
+      <mrow>
+       <mi>n</mi>
+       <mo stretchy="false">=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi mathvariant="normal">∞</mi>
+     </munderover>
+     <msup>
+      <mrow>
+       <mo fence="true" form="prefix" stretchy="false">(</mo>
+       <mrow>
+        <mrow>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </mrow>
+       <mo fence="true" form="postfix" stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <mi>n</mi>
+       <mo stretchy="false">+</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+   <mrow>
+    <msup>
+     <mi>n</mi>
+     <mrow>
+      <mo stretchy="false">−</mo>
+      <mi>n</mi>
+     </mrow>
+    </msup>
+    <mo stretchy="false">=</mo>
+    <mrow>
+     <mo stretchy="false">−</mo>
+     <mrow>
+      <munderover>
+       <mo stretchy="false">∑</mo>
+       <mrow>
+        <mi>n</mi>
+        <mo stretchy="false">=</mo>
+        <mn>1</mn>
+       </mrow>
+       <mi mathvariant="normal">∞</mi>
+      </munderover>
+      <msup>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mo stretchy="false">−</mo>
+          <mi>n</mi>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+       <mrow>
+        <mo stretchy="false">−</mo>
+        <mi>n</mi>
+       </mrow>
+      </msup>
+     </mrow>
+    </mrow>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">int from{0} to{ 1 } x^{x} dx = sum from{n=1} to{infinity} ( -1 )^{n+1} n^{-n} = -sum from{n=1} to{infinity} (-n)^{-n} </annotation>
+ </semantics>
+</math>
+
+= The sophomore's
+x The gate keeper's
+x Pythagoras'
+x The King's
+

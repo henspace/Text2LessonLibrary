@@ -1,0 +1,76 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
+(i) Let's go for a quick tour around the world.
+(?) <a title="Addicted04, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CUB_orthographic.svg"><img width="512" alt="CUB orthographic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CUB_orthographic.svg/512px-CUB_orthographic.svg.png"></a>
+Name that country.
+= Cuba
+x Jamaica
+x Bahamas
+x Dominican Republic
+
+(?) <a title="Image source: Martin23230;* Derivative work:  by Marcos Elias de Oliveira Júnior talk! +  — Marcos Elias de Oliveira Júnior fala! +                        (contact here), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ghana_(orthographic_projection).svg"><img width="512" alt="Ghana (orthographic projection)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ghana_%28orthographic_projection%29.svg/512px-Ghana_%28orthographic_projection%29.svg.png"></a>
+And where is this?
+= Ghana
+x Ethiopia
+x Gabon
+x Senegal
+
+(?) Another continent. Where are we now?
+<a title="Addicted04, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PER_orthographic.svg"><img width="512" alt="PER orthographic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PER_orthographic.svg/512px-PER_orthographic.svg.png"></a>
+
+= Peru
+x Chile
+x Argentina
+x Uruguay
+
+(?) Off to Asia now. Where is this?
+<a title="Seloloving, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Singapore_on_the_globe_(Southeast_Asia_centered)_zoom.svg"><img width="512" alt="Singapore on the globe (Southeast Asia centered) zoom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg/512px-Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg.png"></a>
+
+= Singapore
+x Thailand
+x South Korea
+x Philippines
+
+(?) What are you like with flags? Can you name this one?
+<a title="Nameneko and others, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg"><img width="512" alt="Flag of Moldova" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/512px-Flag_of_Moldova.svg.png"></a>
+= Moldova
+x Andorra
+x Ecuador
+x Grenada
+
+(?) Let's test your geography now. This country shares a border with India and Myanmar. Can you name it?
+= Bangladesh
+x Pakistan
+x Nepal
+x Bhutan
+
+(?) A bit more geography. It's tricky without the maps. This country has a border with Iran and Afghanistan. Got it?
+= Turkmenistan
+x Kazakhstan
+x Tajikistan
+x Uzbekistan
+
+
+(?) Which is the westernmost country in the mainland of Afro-Eurasia. Note, we are not looking at islands.
+= Senegal
+x Mauritania
+x Sierra Leone
+x Liberia
+
+(?) It shares a border with Italy and Croatia along with two other countries. Can you name it?
+= Slovenia
+x Bosnia and Herzegovina
+x Montenegro
+x Serbia
+
+(?) We've done a lot of traveling so let's ask a question about distances. If you were to travel around the equator, approximately how far would you go? 
+<<a title="NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Blue_Marble_(remastered).jpg"><img width="512" alt="The Blue Marble (remastered)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/512px-The_Blue_Marble_%28remastered%29.jpg"></a>
+
+= 40,000 km
+x 30,000 km
+x 50,000 km
+x 60,000 km
+
+

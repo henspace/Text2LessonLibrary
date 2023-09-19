@@ -1,3 +1,7 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
 (i) This will be a bit of a longer lesson. We're going to look at how we create our
 own lesson quiz.
 

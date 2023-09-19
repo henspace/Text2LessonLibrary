@@ -1,3 +1,7 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
 (i) <<a title="Bill Ingalls
 , CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wikibook_Kings_and_Queens_cover.jpg"><img width="256" alt="Wikibook Kings and Queens cover" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Wikibook_Kings_and_Queens_cover.jpg"></a>
 In this quiz we will look at kings and queens of England.

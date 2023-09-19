@@ -39,6 +39,14 @@
           {
             "title": "Kings and Queens of England",
             "file": "kings_and_queens.txt"
+          },
+          {
+            "title": "Mathematical expressions",
+            "file": "maths.txt"
+          },
+          {
+            "title": "Countries of the world",
+            "file": "countries.txt"
           }
         ]
       }
