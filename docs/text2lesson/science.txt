@@ -1,0 +1,85 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
+(i) <a title="Raphael
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sanzio_01_Euclid.jpg"><img width="256" alt="Sanzio 01 Euclid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sanzio_01_Euclid.jpg/256px-Sanzio_01_Euclid.jpg"></a>
+Science: don't you just love it.
+
+Do you fancy a go at some pretty tricky questions about scientific discoveries and advancements?
+
+Let's have a go.
+___________________
+? <a title="NASA/JPL-Caltech/ESO/R. Hurt, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_Milky_Way_(updated_-_annotated).jpg"><img width="256" alt="Artist's impression of the Milky Way (updated - annotated)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg/256px-Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg"></a>
+Can you complete this sentence about the Milky Way.
+
+In ...1924, the astronomer  ...Edwin ...Hubble discovered that the Milky Way is just one of many galaxies.
+x Edmond
+x Halley
+x Galileo
+x Galilei
+x 1594
+x 1701
+
+? <a title="Datumizer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Solar_system_orrery_inner_planets.gif"><img width="512" alt="Solar system orrery inner planets" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Solar_system_orrery_inner_planets.gif"></a>
+The Earth travels around the Sun. This was the heliocentric model developed by Nicolaus Copernicus. But when did he propose this?
+x 1343
+x 1443
+= 1543
+x 1643
+
+? Fermat's last theorem states that no three positive integers {maths}a{maths}, {maths}b{maths} and {maths}c{maths} satisfy the equation {maths}a^n + b^n = c^n{maths} for any integer value of {maths}n{maths} greater than 2. He first stated this in around 1637, but it took a few centuries before it was proved to be correct? Who finally managed to prove it?
+= Andrew Wiles in 1994
+x Albert Einstein in 1909
+x Alan Turing in 1942
+x Srinivasa Ramanujan in 1918
+
+? <a title="MRC Laboratory of Molecular Biology, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rosalind_Franklin.jpg"><img width="256" alt="Rosalind Franklin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosalind_Franklin.jpg/256px-Rosalind_Franklin.jpg"></a>
+In 1962, Crick and Watson, together with Maurice Wilkins, won the Nobel Prize in Medicine for discovering the structure of DNA. But controversy surrounds the discovery because of another's scientist's unrecognised contribution to the discovery. Who was she?
+= Rosalind Franklin
+x Marie Curie
+x Lise Meitner
+x Mary Somerville
+
+? In 1672 he discovered that white light is made up of distinct coloured rays. Who was this scientist?
+<a title="I, Johnrpenner, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Prisma-lightSpectrum-goethe.gif"><img width="512" alt="Prisma-lightSpectrum-goethe" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Prisma-lightSpectrum-goethe.gif"></a>
+= Sir Isaac Newton
+x Galileo Galilei
+x Johannes Kepler
+x Nicolaus Copernicus
+
+? <a title="commons:User:Pumbaa (original work by commons:User:Greg Robson), CC BY-SA 2.0 UK <https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Electron_shell_084_Polonium_-_no_label.svg"><img width="512" alt="Electron shell 084 Polonium - no label" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Electron_shell_084_Polonium_-_no_label.svg/512px-Electron_shell_084_Polonium_-_no_label.svg.png"></a>
+Polonium is a highly radioactive metal that was discovered by this scientist in 1898. It was named after the scientist's homeland of Poland. So who discovered it?
+= Marie Curie
+x Alexander Fleming
+x Albert Einstein
+x Otto Hahn
+
+? <a title="NASA Goddard Space Flight Center, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg"><img width="512" alt="Magnificent CME Erupts on the Sun - August 31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg/512px-Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg"></a>
+Born in 1900, this astronomer and astrophysicist proposed that stars are composed primarily of hydrogen and helium. This was ground-breaking as the conventional wisdom was that there were no elemental differences between the Sun and the Earth. Who was this pioneer?
+= Cecilia Payne-Gaposchkin
+x William Herschel
+x Bernard Lovell
+x Meghnad Saha
+
+? <<a title="Stündle (modification Ideophagous), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pendulum-no-text.gif"><img width="256" alt="Pendulum-no-text" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Pendulum-no-text.gif"></a>
+Tick tock, tick tock. This mathematician and physicist, inspired by Galileo Galilei, invented the pendulum clock back in 1656. So who do we have to thank for this clock?
+= Christiaan Huygens
+x Robert Hooke
+x Nicolaus Hanet
+x Ahasuerus Fromanteel
+
+? <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Leyden_jar_showing_construction.png"><img width="256" alt="Leyden jar showing construction" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Leyden_jar_showing_construction.png"></a>
+Electronics are everywhere, so let's go back a bit. The first capacitor, the Leyden jar, appeared way back in 1745. Its discovery is attributed to two scientists working independently. One of these was Ewald Georg von Kleist. Who was the other?
+= Pieter van Musschenbroek
+x Benjamin Franklin
+x Michael Faraday
+x Georg Ohm
+
+? <a title="NIAID, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Polio_Virus.jpg"><img width="512" alt="Polio Virus" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Polio_Virus.jpg/512px-Polio_Virus.jpg"></a>
+In 1952, Jonas Salk developed and tested one of the first successful vaccines against which disease.
+= polio
+x chicken pox
+x tetanus
+x yellow fever
+x typhus

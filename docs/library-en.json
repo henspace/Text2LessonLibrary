@@ -47,6 +47,10 @@
           {
             "title": "Countries of the world",
             "file": "countries.txt"
+          },
+          {
+            "title": "Scientific discoveries and advancements",
+            "file": "science.txt"
           }
         ]
       }
