@@ -11,7 +11,7 @@ Do you fancy a go at some pretty tricky questions about scientific discoveries a
 Let's have a go.
 ___________________
 ? <a title="NASA/JPL-Caltech/ESO/R. Hurt, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_Milky_Way_(updated_-_annotated).jpg"><img width="256" alt="Artist's impression of the Milky Way (updated - annotated)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg/256px-Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg"></a>
-Can you complete this sentence about the Milky Way.
+Can you complete this sentence about the Milky Way?
 
 In ...1924, the astronomer  ...Edwin ...Hubble discovered that the Milky Way is just one of many galaxies.
 x Edmond
@@ -77,7 +77,7 @@ x Michael Faraday
 x Georg Ohm
 
 ? <a title="NIAID, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Polio_Virus.jpg"><img width="512" alt="Polio Virus" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Polio_Virus.jpg/512px-Polio_Virus.jpg"></a>
-In 1952, Jonas Salk developed and tested one of the first successful vaccines against which disease.
+In 1952, Jonas Salk developed and tested one of the first successful vaccines against which disease?
 = polio
 x chicken pox
 x tetanus
