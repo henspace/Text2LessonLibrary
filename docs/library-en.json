@@ -34,15 +34,24 @@
         ]
       },
       {
-        "title": "A miscellany of quizzes",
+        "title": "Math",
+        "lessons": [
+          {
+            "title": "Mathematical expressions: hard",
+            "file": "maths.txt"
+          },
+          {
+            "title": "Emoji algebra: KS2 - 3",
+            "file": "emoji-algebra.txt"
+          }
+        ]
+      },
+      {
+        "title": "A random selection of quizzes",
         "lessons": [
           {
             "title": "Kings and Queens of England",
             "file": "kings_and_queens.txt"
-          },
-          {
-            "title": "Mathematical expressions",
-            "file": "maths.txt"
           },
           {
             "title": "Countries of the world",

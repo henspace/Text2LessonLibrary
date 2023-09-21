@@ -1,0 +1,210 @@
+AUTHOR: [Steve Butler](https://github.com/henspace)
+COPYRIGHT: 2023 Steve Butler
+LICENSE: CC BY-SA
+
+(i) We all love emojis emoji:❤️>big, but we don't all love algebra. {math}2x + 3y = 12{math} emoji:🙁>big
+
+Why don't we try to mix things up a bit? Emojis and algebra — what's not to love?
+
+______
+? Let's start gently. Look at this equation:
+
+{big}🍌 + 6 = 10{big}
+
+How much is a banana worth?
+= 4
+x 6
+x 10
+x 1
+& To find out what our banana is worth, we want to get the banana on its own. We could do this:
+
+🍌 + 6 = 10
+
+Take away 6 from both sides. When we do something to one side of the equation we must do exactly the same to the other side.
+
+🍌 + 6 - 6 = 10 - 6
+
+🍌 = 4
+
+Now we have one banana on its own and we can see that one banana equals 4.
+
+In algebra we used symbols for values we don't know. We are using emojis for symbols we don't know.
+____________
+? How about this one? What's a cherry worth?
+
+{big}2🍒 = 20{big}
+
+= 10
+x 2
+x 20
+x 5
+
+& We know that 2 cherries = 20. Let's solve it step by step.
+
+2🍒 = 20
+
+Divide both sides by two. Remember that if you do something to one side you must do the same to the other.
+
+2🍒 ÷ 2 = 20 ÷ 2
+
+🍒 = 10
+
+One cherry equals 10.
+
+You might ask why we divided by 2 and didn't just subtract a cherry from both sides. Let's see what would have happened.
+
+2🍒 = 20
+
+2🍒 - 🍒 = 20 - 🍒
+
+🍒 = 20 - 🍒
+
+It hasn't really helped, has it?
+______
+(?) Let's step it up a bit. What's the cat worth?
+
+{big}2🐱 + 4🐱 = 12{big}
+
+= 2
+x 3
+x 6
+x 12
+& So again, we want to get one cat on its own. Here we go:
+
+2🐱 + 4🐱 = 12
+
+If I have 2 cats and I add 4 more, how many cats do I have?
+
+6🐱 = 12
+
+Now divide both sides by 6.
+
+6🐱 ÷ 6 = 12 ÷ 6
+
+🐱 = 2
+
+Now we know that one cat equals 2.
+____
+
+Okay! Now a tricky one.
+
+{big}🐱 + 3🐱 = 8{big}
+
+{big}🐱 + 2🐶 = 10{big}
+
+= 4
+x 2
+x 3
+x 8
+& This isn't any harder than the others — we just need to take it step by step.
+
+That first equation only has cats, so let's solve that first.
+
+🐱 + 3🐱 = 8
+
+4🐱 = 8
+
+4🐱 ÷ 4 = 8 ÷ 4
+
+🐱 = 2
+
+We now know a cat is worth 2, so wherever we see a cat we can replace it with the number 2. Let's look at the dog and cat equation.
+
+🐱 + 2🐶 = 10
+
+2 + 2🐶 = 10
+
+2 - 2 + 2🐶 = 10 - 2
+
+2🐶 = 8
+
+2🐶 ÷ 2 = 8 ÷ 2
+
+🐶 = 4
+
+So our dog is equal to 4.
+
+_________
+What's the cat worth?
+
+(?){big}🐶 + 🐱 + 🐹 = 6{big}
+
+{big}🐶 + 🐹 = 4{big}
+
+{big}3🐹 = 9{big}
+
+= 2
+x 4
+x 6
+x 8
+& Again just take it step by step. We're always looking to get a symbol on its own. Let's start with the hamster.
+
+3🐹 = 9
+
+Divide both sides by 3.
+
+3🐹 ÷ 3 = 9  ÷ 3 
+
+🐹 = 3 
+
+Now we know what a hamster is equal to, we can look at the dog.
+
+🐶 + 🐹 = 4
+
+Replace the hamster with its value.
+
+🐶 + 3 = 4
+
+Subtract 3 from both sides.
+
+🐶 + 3 - 3 = 4 - 3
+
+🐶 = 1
+
+Now we have the value of the dog, and we already know the hamster. Let's finally tackle the cat.
+
+🐶 + 🐱 + 🐹 = 6
+
+Replace the dog and hamster with their values.
+
+1 + 🐱 + 3 = 6
+
+Rearrange it a bit so it's easier to read:
+
+🐱 + 1 + 3 = 6
+
+Simplify it.
+
+🐱 + 4 = 6
+
+Subtract 4 from both sides.
+
+🐱 + 4 - 4 = 6 - 4
+
+🐱 = 2
+
+So our cat is worth 2.
+
+_______
+(i) That's enough for now. Just remember when you see an equation like this:
+
+{big}{math} 2x + 3y = 13{math}{big} don't be phased. 
+
+It's just the same as 
+
+{big}2🐶 + 3🐹 = 13{big}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
