@@ -125,9 +125,9 @@ We now know a cat is worth 2, so wherever we see a cat we can replace it with th
 So our dog is equal to 4.
 
 _________
-What's the cat worth?
+(?) What's the cat worth?
 
-(?){big}🐶 + 🐱 + 🐹 = 6{big}
+{big}🐶 + 🐱 + 🐹 = 6{big}
 
 {big}🐶 + 🐹 = 4{big}
 
