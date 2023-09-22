@@ -30,7 +30,8 @@ Now we have one banana on its own and we can see that one banana equals 4.
 
 In algebra we used symbols for values we don't know. We are using emojis for symbols we don't know.
 ____________
-? How about this one? What's a cherry worth?
+? How about this one? What's a cherry worth? Remember, when you see a number in 
+front of a symbol like this 2🍒 it really means 2&times;🍒.
 
 {big}2🍒 = 20{big}
 
@@ -86,7 +87,7 @@ Now divide both sides by 6.
 Now we know that one cat equals 2.
 ____
 
-Okay! Now a tricky one.
+(?) Okay! Now a tricky one. What's the dog worth?
 
 {big}🐱 + 3🐱 = 8{big}
 
