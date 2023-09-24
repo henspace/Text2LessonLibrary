@@ -32,6 +32,6 @@ x Kraków
 x Łódź
 x Wrocław
 
-(i) This quick lesson is part of the _Text2Lesson_ learning trail.
+(i) This quick lesson is part of the _RapidQandA_ learning trail.
 Take a look at the [capital cities of Europe](https://henspace.github.io/text2lesson-docs/learning-trail/examples/capital_cities_of_Europe.txt)
 file to see how it was written.

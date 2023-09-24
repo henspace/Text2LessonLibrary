@@ -4,7 +4,7 @@ LICENSE: CC BY-SA
 
 (i) In this lesson we are going to look at some famous equations and mathematical expressions.
 
-This lesson is really to show how _Text2Lesson_ can display complex expressions using MathML and AsciiMath. These are very hard.
+This lesson is really to show how _RapidQandA_ can display complex expressions using MathML and AsciiMath. These are very hard.
 
 Let's go.
 

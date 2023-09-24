@@ -1,6 +1,6 @@
-# Text2Lesson Library
+# RapidQandA Library
 
-Prebuilt library for use by [Text2Lesson](https://github.com/henspace/text2lesson).
+Prebuilt library for use by [RapidQandA](https://github.com/henspace/text2lesson).
 
 This just contains the library and library contents files for use with the main application.
 

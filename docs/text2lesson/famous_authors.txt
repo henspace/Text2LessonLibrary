@@ -27,7 +27,7 @@ x Purgatorio
 x Ode on melancholy
 x To autumn
 
-(i) This quick lesson is part of the _Text2Lesson_ learning trail.
+(i) This quick lesson is part of the _RapidQandA_ learning trail.
 Take a look at the [famous authors](https://henspace.github.io/text2lesson-docs/learning-trail/examples/famous_authors.txt)
 file to see how it was written.
 

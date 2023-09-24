@@ -4,7 +4,7 @@ LICENSE: CC BY-SA
 
 (i) emoji:🖐️>bigger Welcome
 
-_Text2Lesson_ has been designed to create lessons and quizzes quickly and 
+_RapidQandA_ has been designed to create lessons and quizzes quickly and 
 painlessly using simple plain text. 
 
 There are a lot of online quiz generators out there, such as Quizziz and Kahoot,
@@ -12,14 +12,14 @@ so what's the point of something else?
 
 Good question.
 
-emoji:🤫>biggest _Text2Lesson_ has been designed so that anyone can use it without creating an
+emoji:🤫>biggest _RapidQandA_ has been designed so that anyone can use it without creating an
 account or providing any personal information. If you're creating
 content for your students, you can do so knowing that neither they nor you
 will need yet another online account.
 
 emoji:⌨️>bigger emoji:💨>bigger And it's fast. Once you get the hang of it, typing plain old text is fast.
 
-The guide you are currently watching has been created using _Text2Lesson_. Let's
+The guide you are currently watching has been created using _RapidQandA_. Let's
 use it to ask some questions.
 
 emoji:🐢>bigger  emoji:🚀>bigger By the way, if you find the speed at which these slides automatically advance too
@@ -29,13 +29,13 @@ top left, and selecting _settings_. You can change all the colours as well.
 If you're on a mobile, just swipe them out of the way.
 ______________________
 ? Which of these allows you to create a quiz without an account?
-= Text2Lesson
+= RapidQandA
 x Kahoot
 x Quizziz
 x Slido
 _______________________
 (i) Okay. That was a very, very short lesson — we're just looking at some of the 
-things _Text2Lesson_ can do.
+things _RapidQandA_ can do.
 
 This will automatically move on to your certificate for this quiz. You can then
 have a go at _My first lesson_.

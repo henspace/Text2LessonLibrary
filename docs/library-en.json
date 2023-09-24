@@ -1,13 +1,13 @@
 [
   {
-    "title": "Learning to use Text2Lesson",
+    "title": "Learning to use RapidQandA",
     "location": "https://henspace.github.io/text2lesson-library/text2lesson/",
     "chapters": [
       {
         "title": "Getting started",
         "lessons": [
           {
-            "title": "What is the point of Text2Lesson?",
+            "title": "What is the point of RapidQandA?",
             "file": "01-what-is-the-point.txt"
           },
           {
