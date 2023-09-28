@@ -60,6 +60,10 @@
           {
             "title": "Scientific discoveries and advancements",
             "file": "science.txt"
+          },
+          {
+            "title": "Famous poems",
+            "file": "poems.txt"
           }
         ]
       }
